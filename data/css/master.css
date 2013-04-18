@@ -1,0 +1,33 @@
+/**
+*	Master.css
+*	Classe principale de gestion des styles
+*/
+
+/** 
+*	Typo
+*	Typographie générale du site
+*/
+/* @import ('typo.css'); */
+
+/** 
+*	Forms
+*	Styles des forumlaires du site
+*/
+/* @import ('forms.css'); */
+
+/** 
+*	Layout
+*	Mise en forme générale du site
+*/
+/* @import ('layout.css'); */
+
+/** 
+*	Misc
+*	Classes génériques / utilitaires
+*/
+@import ('misc.css');
+
+/** 
+*	Partials
+*	Classes spécifiques à un template partiel
+*/
